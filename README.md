@@ -1,2 +1,3 @@
 # Python-Projects
-project 1: Cheater Dice
+Project 1: Cheater Dice
+Project 2: Dictionary
